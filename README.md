@@ -254,6 +254,4 @@ Drift root cause analysis (RCA)
 Grafana or Streamlit dashboards
 
 💡 Author
-
-Cyril — Data Scientist & ML Engineer
-Aiming FAANG/MAANG-ready ML Ops and ML Engineering mastery.
+Cyril — Data Scientist
